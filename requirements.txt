@@ -1,0 +1,10 @@
+opencv-python~=4.7.0.72
+numpy~=1.26.4
+torch~=2.6.0+cu118
+huggingface-hub~=0.36.0
+pillow~=11.1.0
+diffusers~=0.36.0
+controlnet_aux~=0.0.10
+uvicorn~=0.30.6
+fastapi~=0.112.2
+matplotlib~=3.10.3
